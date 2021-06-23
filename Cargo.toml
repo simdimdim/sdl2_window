@@ -26,8 +26,8 @@ homepage = "https://github.com/pistondevelopers/sdl2_window"
 name = "sdl2_window"
 
 [dependencies]
-sdl2 = "0.34.0"
+sdl2 = "0.34.5"
 pistoncore-window = "0.47.0"
 pistoncore-input = "1.0.0"
 shader_version = "0.7.0"
-gl = "0.13.0"
+gl = "0.14.0"
